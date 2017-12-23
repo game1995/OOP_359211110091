@@ -22,4 +22,7 @@ public class TestCondition {
 
     }//main
 
-}//class
+
+//class
+
+}
