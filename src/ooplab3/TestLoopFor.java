@@ -8,11 +8,6 @@ public class TestLoopFor {
             if (i%2==0 ||i%3==0||i%5==0||i%5==0);
             System.out.print(i+"   ");
 
-
-
-
-
-
         }//for
 
     }//main
